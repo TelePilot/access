@@ -1,21 +1,6 @@
-<h1>React Latest (Vite | TypeScript)</h1>
+# Storybook A11y B3
 
-<p>
-  This is project generated to serve as a reproduction starter for Storybook.
-</p>
+vite project + storybook
 
-<a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-vite/default-ts/after-storybook?preset=node=">
-  View it in Stackblitz
-</a>
-
-<h3>Testing instructions</h3>
-
-<p>Install dependencies:</p>
-<pre>
-  yarn
-</pre>
-
-<p>Run Storybook:</p>
-<pre>
-  yarn storybook
-</pre>
+npm install.
+npm run storybook to get the storybook up and running on port 6006.
